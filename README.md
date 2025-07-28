@@ -3,4 +3,4 @@
 개인 할당으로 진행한 부분의 코드입니다
 
 관련 문서
-notion : https://www.notion.so/planet-ms/Project1-23c18648fca8808c8cdbe67cbb794f88?source=copy_link
+notion : https://cyclic-close-b99.notion.site/Project1-870c7bd4513f4e44b8a1a110337c00ea?source=copy_link
