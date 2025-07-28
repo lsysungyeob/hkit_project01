@@ -3,7 +3,7 @@
 개인 할당으로 진행한 부분의 코드입니다  
   
 관련 문서  
-notion : https://cyclic-close-b99.notion.site/Project1-870c7bd4513f4e44b8a1a110337c00ea?source=copy_link  
+notion : https://cyclic-close-b99.notion.site/Project1-870c7bd4513f4e44b8a1a110337c00ea  
   
 다른 프로젝트  
 ADHD 진단을 위한 음성인식 : https://github.com/lsysungyeob/hkit_project02  
